@@ -30,7 +30,7 @@ color_white = "white"
 
 # Window setup
 window = tkinter.Tk()  # Create the window
-window.title("Visual Calculator")  # Set window title
+window.title("Simple Visual Calculator")  # Set window title
 window.resizable(False, False)  # Disable window resizing
 
 # Create frame for layout
